@@ -1,0 +1,5 @@
+!.gitignore
+.idea/*
+!.idea/scopes
+vendor/*
+.DS_Store

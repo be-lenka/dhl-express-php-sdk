@@ -1,0 +1,25 @@
+{
+    "name": "belenka/dhl-express-php-sdk",
+    "description": "DHL Express SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Reichardt",
+            "email": "mail@alexander-reichardt.de"
+        },
+        {
+            "name": "Be Lenka",
+            "email": "dev@belenka.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "belenka\\DHLExpress\\": "src/"
+        }
+    }
+}
