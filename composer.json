@@ -1,5 +1,5 @@
 {
-    "name": "belenka/dhl-express-php-sdk",
+    "name": "be-lenka/dhl-express-php-sdk",
     "description": "DHL Express SDK",
     "type": "library",
     "license": "MIT",
@@ -9,8 +9,12 @@
             "email": "mail@alexander-reichardt.de"
         },
         {
+            "name": "Blueweb",
+            "email": "info@blueweb.sk"
+        },
+        {
             "name": "Be Lenka",
-            "email": "dev@belenka.com"
+            "email": "hello@belenka.dev"
         }
     ],
     "require": {
